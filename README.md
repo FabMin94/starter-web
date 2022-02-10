@@ -11,6 +11,8 @@ The purpose is to provide simple examples for git training
 
 ## How to contribute
 
+Please fork this repository and then issue your request for review
+
 ## Deployment
 
 Deployment can be on any server
