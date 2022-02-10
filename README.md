@@ -14,3 +14,7 @@ The purpose is to provide simple examples for git training
 ## Deployment
 
 Deployment can be on any server
+
+## Copyright
+
+2014 Git.Training
