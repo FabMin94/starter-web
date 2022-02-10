@@ -20,4 +20,4 @@ Deployment can be on any server
 
 ## Copyright
 
-2014 Git.Training
+2014 Git.Training. All rights reserved
